@@ -30,5 +30,4 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 Special thanks to:
 - Jubercool
-- # Jubercool List
 
